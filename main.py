@@ -1,9 +1,11 @@
 import sys
-#from rich import print
+from rich import print
 
 def main():
     print("Hello from uv!")
     print(sys.version)
+    print("Tanvir")
+
 
 
 if __name__ == "__main__":
