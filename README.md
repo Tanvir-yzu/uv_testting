@@ -153,6 +153,11 @@ uv venv --refresh
 uv cache clean
 ```
 
+```
+uv pip freeze > requirements.txt
+
+```
+
 ## Contributing
 
 1. Fork the repository
